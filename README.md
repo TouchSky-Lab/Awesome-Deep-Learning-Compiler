@@ -24,7 +24,7 @@
 - TVM 
 
 
-# Auto-tuning Model Optimization
+# Auto-tuning Model Compilation
 
 
 
