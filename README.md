@@ -15,6 +15,18 @@
 - FPGA:
 - ASIC
 
+# Front-End
+
+
+# Back-End
+- HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
+- HeteroFlow: An Accelerator Programming Model with Decoupled Data Placement for Software-Defined FPGAs
+- TVM 
+
+
+# Auto-tuning Model Optimization
+
+
 
 
 # References
