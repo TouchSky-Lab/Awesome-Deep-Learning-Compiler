@@ -17,10 +17,10 @@
 - FPGA:
 - ASIC
 
-# Front-End
+# Front-End(High-Level IR)
 
 
-# Back-End
+# Back-End(Low-Level IR)
 - HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
 - HeteroFlow: An Accelerator Programming Model with Decoupled Data Placement for Software-Defined FPGAs
 - Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
@@ -30,6 +30,12 @@
 
 # Auto-tuning Model Compilation
 - AutoTVM Learning to optimize tensor programs
+
+# Code Generation
+- LLVM
+- CUDA
+- OpenCL
+- OpenGL
 
 
 
