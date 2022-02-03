@@ -5,8 +5,10 @@
 
 
 # Deep Learning Framework
-- TensorFlow
-- PyTorch
+- [TensorFlow-XLA]
+- [Pytorch Glow]Glow: Graph lowering compiler techniques for neural networks
+- TVM: An automated end-to-end optimizing compiler for deep learning 
+
 
 # Deep Learning Hardware
 
@@ -21,7 +23,6 @@
 # Back-End
 - HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
 - HeteroFlow: An Accelerator Programming Model with Decoupled Data Placement for Software-Defined FPGAs
-- TVM 
 
 
 # Auto-tuning Model Compilation
