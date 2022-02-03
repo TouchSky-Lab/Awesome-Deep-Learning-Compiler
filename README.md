@@ -23,10 +23,13 @@
 # Back-End
 - HeteroCL: A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
 - HeteroFlow: An Accelerator Programming Model with Decoupled Data Placement for Software-Defined FPGAs
-
+- Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
+- DLVM: A modern compiler infrastructure for deep learning systems
+- Opentuner: An extensible framework for program autotuning
+- FFTW: An adaptive software architecture for the FFT
 
 # Auto-tuning Model Compilation
-
+- AutoTVM Learning to optimize tensor programs
 
 
 
